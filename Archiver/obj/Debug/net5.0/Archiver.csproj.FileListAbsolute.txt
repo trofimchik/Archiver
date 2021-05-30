@@ -1,0 +1,17 @@
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\Archiver.exe
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\Archiver.deps.json
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\Archiver.runtimeconfig.json
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\Archiver.runtimeconfig.dev.json
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\Archiver.dll
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\ref\Archiver.dll
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\Archiver.pdb
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.AssemblyInfoInputs.cache
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.AssemblyInfo.cs
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.csproj.CoreCompileInputs.cache
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.dll
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\ref\Archiver.dll
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.pdb
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.genruntimeconfig.cache
+C:\repos\Archiver\Archiver\bin\Debug\net5.0\config.xml
+C:\repos\Archiver\Archiver\obj\Debug\net5.0\Archiver.csprojAssemblyReference.cache
